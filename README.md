@@ -1,6 +1,3 @@
-# PM-MySQL
-MySQL 
-
 <!-- Note ALL comments will shown like this -->
 <!-- I will put code commands inside '<>' -->
 <!-- First I will begin by running <mysql-ctl cli> -->
